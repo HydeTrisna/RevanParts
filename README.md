@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>Form Input</title>
+    <title>Revan Parts</title>
 </head>
 <body>
     <h2>Form Input Data</h2>
