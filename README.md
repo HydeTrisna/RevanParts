@@ -1,8 +1,5 @@
 <html>
-<head>
-    <title>Revan Parts</title>
-</head>
-<body>
+    <h1>Revan Parts<h1>
     <h2>Form Input Data</h2>
     <form action="proses.php" method="POST">
         <label>Nama :</label>
